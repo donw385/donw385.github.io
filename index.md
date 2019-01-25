@@ -10,5 +10,5 @@ Previously experienced M&A and PE professional with 16 completed transactions wi
 To practice data analysis techniques on real world data. Analyzed NFL data that was released as part of 2018 NFL Big Data Bowl
 
 ### Contact Information
-- [Email)](mailto:donw385@gmail.com)
+- [Email](mailto:donw385@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dongweiwang/)
