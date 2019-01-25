@@ -6,7 +6,7 @@ Previously experienced M&A and PE professional with 16 completed transactions wi
 
 ### Projects
 
-#### NFL Data Analysis (in progress) 
+#### [NFL Data Analysis (in progress)](https://colab.research.google.com/drive/1Dy3kgulphr7KSCcx_x-_Uw687nEOjEwG) 
 To practice data analysis techniques on real world data. Analyzed NFL data that was released as part of 2018 NFL Big Data Bowl
 
 ### Contact Information
