@@ -11,8 +11,6 @@ Introductory data analysis project as part of first Lambda School Project Week t
 
 <img src="Eagles Champion.jpg" height = "150">
 
-#### [Data Storytelling Project](project1)
-
 ### Contact Information
 - [Email](mailto:donw385@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dongweiwang/)
