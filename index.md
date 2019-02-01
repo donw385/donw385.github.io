@@ -6,10 +6,12 @@ Previously experienced M&A and PE professional with 16 completed transactions wi
 
 ### Projects
 
-#### NFL Data Analysis (in progress)
+#### NFL Data Analysis
 Introductory data analysis project as part of first Lambda School Project Week to practice data analysis techniques on real world data. Analyzed NFL data that was released as part of 2018 NFL Big Data Bowl with particular emphasis on player data, formations, and distance covered.
 
 [Link to Google Colab Notebook](https://colab.research.google.com/drive/1KWuLlPBB006ophNmxS79rZvOevMR8k8v)
+
+[Link to Medium blog post](https://medium.com/@donwang_7589/introductory-analysis-of-nfl-big-data-bowl-information-efb4b46c4d9a)
 
 
 
