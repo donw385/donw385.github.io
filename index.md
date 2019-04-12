@@ -16,7 +16,7 @@ Introductory data analysis project as part of first Lambda School Project Week t
 <img src="Eagles Champion.jpg" height = "150">
 
 
-#### TWeet Analyzer
+#### Tweet Analyzer
 Simple app built that allows anyone to compare two Twitter users and see who is more likely to say a phrase
 
 [Link to App](https://donw385-twitoff.herokuapp.com/)
